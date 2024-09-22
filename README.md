@@ -1,5 +1,7 @@
 # Decentralized Marketplace Module - README
 
+address:  "6ff5b7a99bc5222b3fbbb3c9c7268bb2277792e85d641a34ac1d185832136677::DecentralizedMarketplace"
+
 ## Vision
 
 The **Decentralized Marketplace** module is designed to create a blockchain-powered, peer-to-peer marketplace that is secure, trustless, and transparent. Users can list, sell, and manage items directly on the Aptos blockchain without the need for intermediaries, giving full control to buyers and sellers. The vision of this project is to foster an environment where decentralized e-commerce can thrive, offering users a safe, transparent, and autonomous trading platform.
