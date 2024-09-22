@@ -1,0 +1,12 @@
+[package]
+name = "TelegramCounterAppTemplate"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x6ff5b7a99bc5222b3fbbb3c9c7268bb2277792e85d641a34ac1d185832136677"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[dev-dependencies]
